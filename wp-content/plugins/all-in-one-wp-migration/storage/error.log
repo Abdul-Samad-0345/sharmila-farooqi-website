@@ -1,0 +1,60 @@
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\.htaccess): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\akismet.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\class.akismet-admin.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\class.akismet-cli.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\class.akismet-rest-api.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\class.akismet-widget.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\class.akismet.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\index.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\LICENSE.txt): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\readme.txt): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\views\\\\config.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\views\\\\get.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\views\\\\notice.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\views\\\\start.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\views\\\\stats.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\wrapper.php): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\_inc\\\\akismet.css): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\_inc\\\\akismet.js): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\_inc\\\\form.js): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
+Aug 16 2020 09:20:46
+{"Number":2,"Message":"fopen(C:\\\\wamp\\\\www\\\\sharmila-farooqi-website\\\\wp-content\\\\plugins\\\\akismet\\\\_inc\\\\img\\\\logo-full-2x.png): failed to open stream: Permission denied","File":"C:\\wamp\\www\\sharmila-farooqi-website\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-extractor.php","Line":452}
+
